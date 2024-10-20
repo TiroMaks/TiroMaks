@@ -1,4 +1,4 @@
-## Hi, I'm [TiroMaks]!
+## Hi, I'm TiroMaks!
 
 I have been interested in programming and researching new technologies for a long time. At the moment I am:
 - Learning programming languages such as Python, C# and Kotlin
