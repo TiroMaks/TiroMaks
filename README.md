@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm [TiroMaks]!
 
+I have been interested in programming and researching new technologies for a long time. At the moment I am:
+- Learning programming languages such as Python, C# and Kotlin
+- I plan to start learning Java in the future
+- I use Github to save my projects and I can work with them anywhere.
+- In the future, I may even release my project to the public
+
+I am studying Backend because I am interested in it, as well as because I know Frontend (HTML, CSS, JS) to become a FullStack programmer
+
+I am currently studying to be a programmer.
 <!--
 **TiroMaks/TiroMaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
