@@ -22,7 +22,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ### **🚀 В планах** 
-[![Nginx](https://img.shields.io/badge/NGINX-269539?logo=nginx&logoColor=white)](https://nginx.org/) серверная инфраструктура
+[![Nginx](https://img.shields.io/badge/NGINX-269539?logo=nginx&logoColor=white)](https://nginx.org/) серверная инфраструктура.
 
 ## 🏆 Достижения
 
