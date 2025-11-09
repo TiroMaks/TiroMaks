@@ -34,5 +34,5 @@
 ## 📫 Как связаться
 
 [![GitHub](https://img.shields.io/badge/GitHub-TiroMaks-181717?logo=github)](https://github.com/TiroMaks)
-[![Telegram](https://img.shields.io/badge/Telegram-@hafn_g-26A5E4?logo=telegram)](https://t.me/hafn_g)
+[![Telegram](https://img.shields.io/badge/Telegram-@hafn__g-26A5E4?logo=telegram)](https://t.me/hafn_g)
 [![Email](https://img.shields.io/badge/Email-maksimmail6311@gmail.com-D14836?logo=gmail)](mailto:maksimmail6311@gmail.com)
